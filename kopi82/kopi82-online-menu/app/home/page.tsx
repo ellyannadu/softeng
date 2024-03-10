@@ -3,7 +3,9 @@ import React from 'react'
 const HomePage = () => {
   return (
     <div>
-      HomePage
+          <h1>KOPI 82</h1>
+            <p>DINE-IN</p>
+            <p>TAKE-OUT</p>
     </div>
   )
 }

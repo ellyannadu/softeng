@@ -4,8 +4,7 @@ const MenuPage = () => {
     return (
     <div>
         
-        <h1>MenuPage</h1>
-        welcome to kopi 82's online menu
+        <h1>PLACE YOUR ORDER</h1>
 
     </div>
     )
